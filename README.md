@@ -1,3 +1,2 @@
 # blog
-Création d'un blog avec angular kafka et un api node.js mongoDB
-coucou toi
+Création d'un blog avec angular kafka et une api node.js mongoDB
